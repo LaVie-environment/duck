@@ -1,0 +1,1 @@
+The application accept HTTP requests and respond with the hostname of the machine it is running in.
